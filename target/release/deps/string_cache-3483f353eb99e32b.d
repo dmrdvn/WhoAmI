@@ -1,0 +1,11 @@
+/Users/dmrdvn/Projects/hackatonicp/nftemre/target/release/deps/string_cache-3483f353eb99e32b.rmeta: /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/lib.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/atom.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/dynamic_set.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/static_sets.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/trivial_impls.rs
+
+/Users/dmrdvn/Projects/hackatonicp/nftemre/target/release/deps/libstring_cache-3483f353eb99e32b.rlib: /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/lib.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/atom.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/dynamic_set.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/static_sets.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/trivial_impls.rs
+
+/Users/dmrdvn/Projects/hackatonicp/nftemre/target/release/deps/string_cache-3483f353eb99e32b.d: /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/lib.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/atom.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/dynamic_set.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/static_sets.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/trivial_impls.rs
+
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/lib.rs:
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/atom.rs:
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/dynamic_set.rs:
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/static_sets.rs:
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.2/src/trivial_impls.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/dmrdvn/Projects/hackatonicp/nftemre/target/wasm32-unknown-unknown/release/build/typenum-4e34257d2e29c9b0/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/dmrdvn/Projects/hackatonicp/nftemre/target/wasm32-unknown-unknown/release/build/typenum-4e34257d2e29c9b0/out/op.rs

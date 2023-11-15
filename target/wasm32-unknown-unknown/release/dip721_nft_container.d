@@ -1,0 +1,1 @@
+/Users/dmrdvn/Projects/hackatonicp/nftemre/target/wasm32-unknown-unknown/release/dip721_nft_container.wasm: /Users/dmrdvn/Projects/hackatonicp/nftemre/build.rs /Users/dmrdvn/Projects/hackatonicp/nftemre/src/http.rs /Users/dmrdvn/Projects/hackatonicp/nftemre/src/lib.rs /Users/dmrdvn/Projects/hackatonicp/nftemre/src/types.rs

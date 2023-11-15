@@ -1,0 +1,11 @@
+/Users/dmrdvn/Projects/hackatonicp/nftemre/target/release/deps/serde_bytes-a01b2437f318b78f.rmeta: /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/lib.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/bytes.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/de.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/ser.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/bytebuf.rs
+
+/Users/dmrdvn/Projects/hackatonicp/nftemre/target/release/deps/libserde_bytes-a01b2437f318b78f.rlib: /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/lib.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/bytes.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/de.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/ser.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/bytebuf.rs
+
+/Users/dmrdvn/Projects/hackatonicp/nftemre/target/release/deps/serde_bytes-a01b2437f318b78f.d: /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/lib.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/bytes.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/de.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/ser.rs /Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/bytebuf.rs
+
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/lib.rs:
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/bytes.rs:
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/de.rs:
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/ser.rs:
+/Users/dmrdvn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.5/src/bytebuf.rs:
